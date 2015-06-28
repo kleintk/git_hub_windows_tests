@@ -2,5 +2,5 @@
 
 Folders contain the following OS:
 
-- Windows
-- Linux
+- windows
+- linux
