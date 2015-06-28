@@ -13,7 +13,7 @@
 - XAMPP
 - VMware Player
 - Genimotion
-- Git
+- Git(GitHub Windows)
 
 
 ## Internet ##
