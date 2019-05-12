@@ -7,10 +7,8 @@
 - WinSCP
 - Java SDK
 - Python 3
-- PyQt 5 für entsprechende Python Version
 - IntelliJ IDEA
 - PyCharm
-- XAMPP
 - VMware Player
 - Genimotion
 - Git(GitHub Windows)
@@ -20,10 +18,7 @@
 - Firefox
 - Thunderbird (Enigmail)
 - VLC Player
-- WinRAR/7-Zip
-- Spotify
-- Skype
-- NetSpeedMonitor
+- 7-Zip
 
 
 ## Documentation ##
